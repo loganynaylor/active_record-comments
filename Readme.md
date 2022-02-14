@@ -43,6 +43,6 @@ If you're replacing `execute` with `exec_query` to get comments, `exec_query.row
 
 Author
 ======
-[Michael Grosser](https://grosser.it)<br/>
-michael@grosser.it<br/>
+[Malcom Cunningham]<br/>
+malcomxcunningham@gmail.com<br/>
 License: MIT<br/>
